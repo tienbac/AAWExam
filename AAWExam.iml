@@ -9,9 +9,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/web" relative="/" />
         </webroots>
-        <sourceRoots>
-          <root url="file://$MODULE_DIR$/src" />
-        </sourceRoots>
+        <sourceRoots />
       </configuration>
     </facet>
   </component>
@@ -29,5 +27,6 @@
     <orderEntry type="library" name="Maven: com.sun.faces:jsf-api:2.1.7" level="project" />
     <orderEntry type="library" name="Maven: com.sun.faces:jsf-impl:2.1.7" level="project" />
     <orderEntry type="library" name="Maven: org.primefaces:primefaces:7.0" level="project" />
+    <orderEntry type="library" name="mysql-connector-java-8.0.15" level="project" />
   </component>
 </module>
